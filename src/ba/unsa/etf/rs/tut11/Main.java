@@ -1,4 +1,4 @@
-package ba.unsa.etf.rpr.tutorijal03;
+package ba.unsa.etf.rs.tut11;
 
 public class Main {
 
